@@ -2,7 +2,7 @@
 #include <algorithm> 
 using namespace std;
 
-// Hàm tìm UCLN, nhận vào 2 số a,b bất kì, trẻ về giá trị của UCLN. 
+// Hàm tìm UCLN, nhận vào 2 số a,b bất kì, trả về giá trị của UCLN. 
 int timUCLN(int a, int b) {
     return __gcd(a, b);
 }
