@@ -3,7 +3,6 @@
 using namespace std;
 
 int main () {
-
 	string Ten;
 	double Toan,Van;
 
